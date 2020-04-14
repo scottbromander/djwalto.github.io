@@ -1,0 +1,55 @@
+html {
+  background: url(https://cdn.nohat.cc/thumb/f/720/4666479677014016.jpg);
+  background-size: cover;
+}
+
+#facebook {
+  margin: 175px;
+  margin-top: -170px;
+
+}
+
+#linkedin {
+  margin: 175px;
+  margin-top: -60px;
+}
+
+p {
+  margin-top: 250px;
+  font-style: italic;
+  font-size: 18px;
+  font-style: bold;
+}
+
+img {
+  float: right;
+  width: 25%; 
+  border-radius: 50%;
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 45px;
+  margin-bottom: -15px;
+}
+
+h4 {
+  font-size: 16px;
+}
+  
+
+h2 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  border-style: solid;
+  border-width: 3px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: gray;
+}
+
+li {
+  font-size: 14px;
+}
